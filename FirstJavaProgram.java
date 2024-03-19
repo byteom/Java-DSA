@@ -11,9 +11,9 @@ public class FirstJavaProgram{
     public static void main(String args[]){
         System.out.println("Enter your name : ");
         Scanner input = new Scanner(System.in);
-        int a = input.nextInt();
+      //  int a = input.nextInt();
         System.out.println(input.nextLine());
-        System.out.println(a);
+      //  System.out.println(a);
     }
 }
 
